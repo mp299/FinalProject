@@ -1,0 +1,49 @@
+/*DEVELOPER: Mithil Patel, IS117-003, Fall, 2022 */
+main{
+    background-color: white;
+}
+h1{
+    background-color: #aab1ea;
+    text-align: center;
+    padding: 20px;
+}
+.container{
+    background-color: #d3d3d5;
+    border-radius: 15px;
+    margin:30px;
+    margin-top:1em;
+}
+
+
+.inputBoxes{
+    text-align: center;
+    padding: 10px;
+}
+.formDetails{
+    text-align: center;
+    margin: 10px;
+}
+.message{
+    text-align:center;
+    margin:20px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 10px solid #d3d3d5;
+    margin-bottom: 20px;
+}
+/* the styles for the footer */
+footer {
+	background-color: #aab1ea;
+	clear: both;
+
+}
+footer p {
+	text-align: center;
+	color: black;
+	padding: 1.5em 0;
+}
